@@ -46,7 +46,7 @@ int main ()
     studentNum = 0;
     
     // Begin to prompt user for inputs
-    cout << "Welcome to Ramapo College's tuition processing program" << endl;
+    cout << "Welcome to the tuition processing program" << endl;
     cout << endl;
     
         // Ask if the user would like to process a student's tuition
