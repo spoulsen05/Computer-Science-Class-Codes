@@ -5,11 +5,11 @@
 using namespace std;
 
 /*
-Name: Severin Poulsen
+Name: Shannon Poulsen
 Project: Lab 5
 Class: CMPS-148 / Computer Science II
 Section: M/R 2:15 PM - 3:55 PM / 01
-Email: spoulsen@ramapo.edu
+Email: 
 Date: 14 March 2024
 
 This program will demonstrate various skills in C++ concerning pointers
