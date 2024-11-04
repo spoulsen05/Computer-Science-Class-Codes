@@ -46,7 +46,7 @@ int main ()
     cout.precision ( 2 );
     
     // Initial message printed out to the user
-    cout << "Welcome to Severin Poulsen's Stockbroker program!" << endl;
+    cout << "Welcome to Shannon Poulsen's Stockbroker program!" << endl;
     
     cout << endl;
     
