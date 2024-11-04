@@ -46,7 +46,7 @@ int main ()
     cout.setf ( ios::fixed );
     cout.precision ( 2 );
     
-    cout << "Welcome to Severin Poulsen's Temperature Converter!" << endl;
+    cout << "Welcome to Shannon Poulsen's Temperature Converter!" << endl;
     
     // Call to inputTemp
     fahrenheit = inputTemp ();
@@ -64,7 +64,7 @@ int main ()
     
     // Output end message to user
     cout << endl;
-    cout << "Thank you for using Severin Poulsen's Temperature Converter!" << endl;
+    cout << "Thank you for using Shannon Poulsen's Temperature Converter!" << endl;
     
     // Return to end function
     return 0;
