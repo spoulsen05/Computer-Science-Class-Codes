@@ -1,10 +1,10 @@
 /******************************************************************************
 
-Name: Severin Poulsen
+Name: Shannon Poulsen
 Project: Hello World
 Class: CMPS-147 / Computer Science I
 Section: T/F 9:55 AM - 11:35 AM / 01
-Email: spoulsen@ramapo.edu
+Email:
 Date: 5 September 2023
 
 *******************************************************************************/
@@ -23,7 +23,7 @@ int main ()
 {
     // Greet the world
     
-    cout << "Hello World! - Severin Poulsen" << endl;
+    cout << "Hello World! - Shannon Poulsen" << endl;
     cout << "Second line" << endl;
     cout << endl;
     
