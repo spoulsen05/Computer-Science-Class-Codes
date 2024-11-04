@@ -392,6 +392,6 @@ int main ()
     cout << "Your fortune for the day:" << endl;
     cout << "   " << fortune << endl;
     cout << "Your lucky number: " << luckyNum << endl;
-    cout << "Thank you for using Severin Poulsen's Fortune Teller." << endl;
+    cout << "Thank you for using Shannon Poulsen's Fortune Teller." << endl;
     return 0;
 }
