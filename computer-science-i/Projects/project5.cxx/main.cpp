@@ -1,10 +1,10 @@
 /******************************************************************************
 
-Name: Severin Poulsen
+Name: Shannon Poulsen
 Project: Project 5 / Fortune Teller
 Class: CMPS-147 / Computer Science I
 Section: T/F 9:55 AM - 11:35 AM / 01
-Email: spoulsen@ramapo.edu
+Email: 
 Date: 10 October 2023
 
 *******************************************************************************/
