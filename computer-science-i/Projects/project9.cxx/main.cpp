@@ -127,7 +127,7 @@ int main ()
     cout << " of OhNo99." << endl;
 
     // Ending message printed to user
-    cout << "Thank you for playing at Severin Poulsen's Card Game Parlor." << endl;
+    cout << "Thank you for playing at Shannon Poulsen's Card Game Parlor." << endl;
     return 0;
 }
 
