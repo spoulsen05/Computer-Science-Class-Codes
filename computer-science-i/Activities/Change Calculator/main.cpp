@@ -1,10 +1,10 @@
 /******************************************************************************
 
-Name: Severin Poulsen
+Name: Shannon Poulsen
 Project: Change Calculator
 Class: CMPS-147 / Computer Science I
 Section: T/F 9:55 AM - 11:35 AM / 01
-Email: spoulsen@ramapo.edu
+Email:
 Date: 12 September 2023
 
 *******************************************************************************/
