@@ -1,10 +1,10 @@
 /******************************************************************************
 
-Name: Severin Poulsen
+Name: Shannon Poulsen
 Project: Project 8 / Stock Broker Program
 Class: CMPS-147 / Computer Science I
 Section: T/F 9:55 AM - 11:35 AM / 01
-Email: spoulsen@ramapo.edu
+Email:
 Date: 3 November 2023
 
 *******************************************************************************/
