@@ -208,6 +208,6 @@ int main ()
     cout << endl;
     
     // Exit message of currency converter
-    cout << "Thank you for using Severin Poulsen's Currency Converter." << endl;
+    cout << "Thank you for using Shannon Poulsen's Currency Converter." << endl;
     return 0;
 }
