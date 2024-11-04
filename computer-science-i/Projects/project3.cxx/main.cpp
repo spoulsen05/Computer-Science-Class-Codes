@@ -41,7 +41,7 @@ int main ()
     cout.precision ( 2 );
     
     // Menu creation and introduction of currency conversions
-    cout << "Welcome to Severin Poulsen's Stock Broker program." << endl;
+    cout << "Welcome to Shannon Poulsen's Stock Broker program." << endl;
     cout << "You can buy shares of the following companies:" << endl;
     
     // Each company shares printed out to user in order
