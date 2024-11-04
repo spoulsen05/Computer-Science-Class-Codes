@@ -5,11 +5,11 @@
 using namespace std;
 
 /*
-Name: Severin Poulsen
+Name: Shannon Poulsen
 Project: Lab 6
 Class: CMPS-148 / Computer Science II
 Section: M/R 2:15 PM - 3:55 PM / 01
-Email: spoulsen@ramapo.edu
+Email: 
 Date: 28 March 2024
 
 This program will create a linked list utilizing the Node and LinkedList classes
