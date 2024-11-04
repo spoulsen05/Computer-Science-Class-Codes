@@ -5,11 +5,11 @@
 using namespace std;
 
 /*
-Name: Severin Poulsen
+Name: Shannon Poulsen
 Project: Lab 4
 Class: CMPS-148 / Computer Science II
 Section: M/R 2:15 PM - 3:55 PM / 01
-Email: spoulsen@ramapo.edu
+Email:
 Date: 29 February 2024
 
 This program is intended to take a student's information and print out the ID of the student receiving an award
